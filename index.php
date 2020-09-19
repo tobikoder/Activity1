@@ -1,5 +1,5 @@
 <?php
 
-    echo "Hello World!testtest 2";
+    echo "Hello World!";
 
 ?>
